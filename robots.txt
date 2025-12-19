@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+Disallow: /*?utm_source=
+Disallow: /*?utm_medium=
+Disallow: /*?utm_campaign=
+Disallow: /*?session=
+
+Allow: /*.css$
+Allow: /*.js$
+Allow: /images/
+Allow: /assets/
+Allow: /fonts/
+
+# Sitemap location
+Sitemap: https://hyperpath.co.uk/sitemap.xml

@@ -1,0 +1,1849 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="shortcut icon" href="assets/img/logo-light.ico" type="image/x-icon">
+	<!-- ========== PRIMARY META TAGS ========== -->
+	<title>Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK</title>
+	<meta name="title" content="Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK">
+	<meta name="description"
+		content="Hyperpath Digital: Data-driven web strategies & creative digital growth solutions to scale brands online. Boost engagement, leads & growth with expert UK digital marketing service.">
+	<link rel="canonical" href="https://hyperpath.co.uk/">
+
+	<!-- BASIC META -->
+	<meta name="robots" content="index, follow">
+	<meta name="author" content="Hyperpath Digital">
+	<meta name="language" content="en-GB">
+
+	<!-- LOCATION META -->
+	<meta name="geo.region" content="GB">
+	<meta name="geo.placename" content="Offerton, Stockport">
+	<meta name="geo.position" content="53.4000;-2.1333">
+	<meta name="ICBM" content="53.4000, -2.1333">
+
+	<!-- OPEN GRAPH -->
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK">
+	<meta property="og:description"
+		content="Hyperpath Digital crafts data-driven digital strategies, modern websites and growth-focused digital experiences to help brands scale online.">
+	<meta property="og:url" content="https://hyperpath.co.uk/">
+	<meta property="og:site_name" content="Hyperpath Digital">
+	<meta property="og:image" content="https://hyperpath.co.uk/assets/img/about.jpg">
+	<meta property="og:image:alt" content="Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK">
+	<meta property="og:locale" content="en_GB">
+
+	<!-- TWITTER CARD -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK">
+	<meta name="twitter:description"
+		content="Data-driven web strategies, digital growth and scalable online experiences for modern brands.">
+	<meta name="twitter:image" content="https://hyperpath.co.uk/assets/img/about.png">
+
+	<!-- OPTIONAL KEYWORDS -->
+	<meta name="keywords"
+		content="Hyperpath Digital, digital agency UK, data-driven marketing, digital growth, web strategy UK, website development, digital experiences, performance marketing, web apps, UK digital marketing agency">
+
+
+	<!-- ===================================================================== -->
+	<!-- ========================== SCHEMAS START ============================= -->
+	<!-- ===================================================================== -->
+
+
+	<!-- ========== ORGANIZATION SCHEMA ========== -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"@id": "https://hyperpath.co.uk/#organization",
+			"name": "Hyperpath Digital",
+			"url": "https://hyperpath.co.uk/",
+			"logo": "https://hyperpath.co.uk/assets/img/logo-light.png",
+			"description": "Hyperpath Digital crafts data-driven digital strategies, modern websites and growth-focused digital experiences for brands in the UK and beyond.",
+			"email": "hello@hyperpath.co.uk",
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "58 Ilfracombe Road",
+				"addressLocality": "Offerton",
+				"addressRegion": "Stockport",
+				"postalCode": "SK2 5AS",
+				"addressCountry": "GB"
+			},
+			"sameAs": [
+				"https://www.facebook.com/hyperpath.digital",
+				"https://www.instagram.com/hyperpath_digital",
+				"https://www.linkedin.com/company/hyperpath-digital/"
+			],
+			"contactPoint": [{
+				"@type": "ContactPoint",
+				"contactType": "customer support",
+				"email": "hello@hyperpath.co.uk",
+				"areaServed": "GB",
+				"availableLanguage": ["en"]
+			}]
+		}
+	</script>
+
+
+	<!-- ========== WEBSITE SCHEMA ========== -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"@id": "https://hyperpath.co.uk/#website",
+			"url": "https://hyperpath.co.uk/",
+			"name": "Hyperpath Digital",
+			"publisher": {
+				"@id": "https://hyperpath.co.uk/#organization"
+			},
+			"inLanguage": "en-GB"
+		}
+	</script>
+
+
+	<!-- ========== WEBPAGE SCHEMA (HOME) ========== -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebPage",
+			"@id": "https://hyperpath.co.uk/#webpage",
+			"url": "https://hyperpath.co.uk/",
+			"name": "Hyperpath Digital – Data-Driven Digital Growth & Web Strategy UK",
+			"headline": "One Path. Limitless.",
+			"description": "At Hyperpath, we craft data-driven digital strategies and experiences that help brands scale, connect, and lead in the digital era.",
+			"isPartOf": {
+				"@id": "https://hyperpath.co.uk/#website"
+			},
+			"publisher": {
+				"@id": "https://hyperpath.co.uk/#organization"
+			},
+			"inLanguage": "en-GB"
+		}
+	</script>
+
+
+	<!-- ========== FAQ SCHEMA ========== -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"@id": "https://hyperpath.co.uk/#faq",
+			"mainEntity": [{
+					"@type": "Question",
+					"name": "What types of projects do you work on?",
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": "We specialize in creating modern websites, interactive UI applications, and digital experiences — ranging from portfolio sites to enterprise-grade web apps."
+					}
+				},
+				{
+					"@type": "Question",
+					"name": "How long does a typical project take?",
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": "It depends on the project’s scale. Smaller websites usually take 1–2 weeks, while larger or custom applications can take 4–8 weeks from concept to launch."
+					}
+				},
+				{
+					"@type": "Question",
+					"name": "Do you provide maintenance or post-launch support?",
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": "Yes, we provide ongoing maintenance, updates, and feature improvements to ensure your project stays secure, optimized, and up to date."
+					}
+				},
+				{
+					"@type": "Question",
+					"name": "Can you customize an existing website or app?",
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": "Absolutely! We can revamp your existing project with a fresh design, performance optimization, or new feature integration while keeping your original goals intact."
+					}
+				},
+				{
+					"@type": "Question",
+					"name": "How can I start a project with you?",
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": "Simply reach out via our contact page with your project idea or goals. We’ll schedule a quick discussion and get things rolling."
+					}
+				}
+			]
+		}
+	</script>
+
+
+	<!-- ========== BREADCRUMB SCHEMA ========== -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"@id": "https://hyperpath.co.uk/#breadcrumbs",
+			"itemListElement": [{
+				"@type": "ListItem",
+				"position": 1,
+				"name": "Home",
+				"item": "https://hyperpath.co.uk/"
+			}]
+		}
+	</script>
+
+	<!-- ===================================================================== -->
+	<!-- =========================== SCHEMAS END ============================== -->
+	<!-- ===================================================================== -->
+
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&amp;display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="assets/vendor/fontawesome/css/all.min.css">
+	<link rel="stylesheet" href="assets/vendor/fancybox/css/fancybox.css">
+	<link rel="stylesheet" href="assets/vendor/swiper/css/swiper-bundle.min.css">
+	<link rel="stylesheet" href="assets/css/extra.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/light-mode.css">
+	<meta name="google-site-verification" content="cJWrFX-lRjVSuJLzmjOnxPEKejmKOLZ_gbmpzNJI6-g" />
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-TLLT3SWD');
+	</script>
+
+	<!-- End Google Tag Manager -->
+
+	<!-- microsoft clarity  -->
+	<script type="text/javascript">
+		(function(c, l, a, r, i, t, y) {
+			c[a] = c[a] || function() {
+				(c[a].q = c[a].q || []).push(arguments)
+			};
+			t = l.createElement(r);
+			t.async = 1;
+			t.src = "https://www.clarity.ms/tag/" + i;
+			y = l.getElementsByTagName(r)[0];
+			y.parentNode.insertBefore(t, y);
+		})(window, document, "clarity", "script", "u5z19plqb7");
+	</script>
+	<!-- end -->
+</head>
+
+<script>
+	document.addEventListener('contextmenu', function(e) {
+		// Disable right-click
+		e.preventDefault();
+	});
+
+	document.addEventListener('keydown', function(e) {
+		// Block all common key combinations for source viewing / dev tools
+
+		// Windows/Linux Shortcuts
+		if (
+			(e.ctrlKey && ['u', 's', 'a', 'x', 'p'].includes(e.key.toLowerCase())) || // Ctrl+U/S/C/A/X/P
+			(e.ctrlKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase())) || // Ctrl+Shift+I/J
+			(e.key === 'F12') // F12
+		) {
+			e.preventDefault();
+			e.stopPropagation();
+		}
+
+		// Mac Shortcuts
+		if (
+			(e.metaKey && ['u', 's', 'c', 'a', 'x', 'p'].includes(e.key.toLowerCase())) || // Cmd+U/S/C/A/X/P
+			(e.metaKey && e.altKey && e.key.toLowerCase() === 'u') || // Cmd+Option+U
+			(e.metaKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase()))
+		) {
+			e.preventDefault();
+			e.stopPropagation();
+		}
+	});
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T4LNPVXHP6"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-T4LNPVXHP6');
+</script>
+
+<body id="body" class="tt-transition tt-noise tt-magic-cursor tt-smooth-scroll tt-lightmode-default">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLLT3SWD" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<main id="body-inner">
+		<div id="tt-page-transition">
+			<div class="tt-ptr-overlay-top tt-noise"></div>
+			<div class="tt-ptr-overlay-bottom tt-noise"></div>
+			<div class="tt-ptr-preloader">
+				<div class="tt-ptr-prel-content">
+				</div>
+			</div>
+		</div>
+		<div id="magic-cursor">
+			<div id="ball"></div>
+		</div>
+		<header id="tt-header" class="tt-header-alter tt-header-scroll tt-header-filled">
+			<div class="tt-header-inner tt-noise">
+				<div class="tt-header-col tt-header-col-left">
+					<div class="tt-logo">
+						<a href="index" class="tt-magnetic-item">
+							<img src="assets/img/logo-light.png" class="tt-logo-light" alt="Logo">
+							<img src="assets/img/logo-dark.png" class="tt-logo-dark" alt="Logo">
+						</a>
+					</div>
+				</div>
+
+				<div class="tt-header-col tt-header-col-center">
+					<nav class="tt-main-menu tt-m-menu-center">
+						<div class="tt-main-menu-holder">
+							<div class="tt-main-menu-inner">
+								<div class="tt-main-menu-content">
+									<ul class="tt-main-menu-list">
+										<li><a href="index">Home</a></li>
+										<li><a href="#about">About</a></li>
+										<li><a href="#services">Services</a></li>
+										<li><a href="#projects">Projects</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</nav>
+				</div>
+
+				<div class="tt-header-col tt-header-col-right">
+					<div id="tt-m-menu-toggle-btn-wrap">
+						<div class="tt-m-menu-toggle-btn-text">
+							<span class="tt-m-menu-text-menu">Menu</span>
+							<span class="tt-m-menu-text-close">Close</span>
+						</div>
+						<div class="tt-m-menu-toggle-btn-holder">
+							<a href="#" class="tt-m-menu-toggle-btn"><span></span></a>
+						</div>
+					</div>
+					<a href="contact" class="tt-btn tt-btn-secondary hide-from-xlg tt-magnetic-item">
+						<span data-hover="Contact">Contact</span>
+					</a>
+					<div class="tt-style-switch">
+						<div class="tt-style-switch-inner tt-magnetic-item">
+							<div class="tt-stsw-light">
+								<i class="fas fa-sun"></i>
+							</div>
+							<div class="tt-stsw-dark">
+								<i class="fas fa-moon"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div id="tt-content-wrap">
+			<div id="page-header"
+				class="ph-full ph-full-m ph-center ph-cap-xxxxlg ph-image-parallax ph-caption-parallax">
+				<div class="page-header-inner tt-wrap">
+					<div class="ph-caption">
+						<div class="ph-caption-inner">
+							<h2 class="ph-caption-subtitle">HyperPath</h2>
+							<h1 class="ph-caption-title">One Path.<br> Limitless.</h1>
+							<div class="ph-caption-description max-width-700">
+								Empowering brands with digital innovation, creativity,<br>
+								and strategies that turn ideas into impact.
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="page-header-inner ph-mask">
+					<div class="ph-mask-inner tt-wrap">
+						<div class="ph-caption">
+							<div class="ph-caption-inner">
+								<h2 class="ph-caption-subtitle">HyperPath</h2>
+								<h1 class="ph-caption-title">Digital.<br> Smart. Scalable.</h1>
+								<div class="ph-caption-description max-width-700">
+									We combine strategy, design, and technology<br>
+									to help your business lead the digital frontier.
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="ph-social">
+					<ul>
+
+						<li><a href="https://www.facebook.com/hyperpath.digital" class="tt-magnetic-item"
+								target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f"></i></a></li>
+						<li><a href="https://www.instagram.com/hyperpath_digital" class="tt-magnetic-item"
+								target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/hyperpath-digital/" class="tt-magnetic-item"
+								target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a></li>
+
+					</ul>
+				</div>
+				<div class="tt-scroll-down">
+					<a href="#" class="tt-scroll-down-inner tt-magnetic-item" data-offset="0">
+						<div class="tt-scrd-icon"></div>
+						<svg viewBox="0 0 500 500">
+							<defs>
+								<path
+									d="M50,250c0-110.5,89.5-200,200-200s200,89.5,200,200s-89.5,200-200,200S50,360.5,50,250"
+									id="textcircle"></path>
+							</defs>
+							<text dy="30">
+								<textPath xlink:href="#textcircle">Scroll to Explore - Scroll to Explore -</textPath>
+							</text>
+						</svg>
+					</a>
+				</div>
+			</div>
+
+			<div id="tt-page-content">
+				<div class="tt-section padding-top-xlg-140 padding-bottom-xlg-120 border-top" id="about">
+					<div class="tt-section-inner tt-wrap">
+						<div class="tt-row">
+
+							<!-- Image / Visual -->
+							<div class="tt-col-lg-3">
+								<div class="tt-video ttv-portrait">
+									<img src="assets/img/about.png" alt="Hyperpath Team" class="tt-anim-zoomin" />
+								</div>
+								<div class="tt-text-uppercase margin-top-30 tt-text-reveal">
+									Digital Growth<br> Partners for the Modern World
+								</div>
+							</div>
+
+							<div class="tt-col-lg-1 padding-top-30"></div>
+
+							<!-- About Content -->
+							<div class="tt-col-lg-8 tt-align-self-center">
+								<div class="text-xxlg font-500 tt-text-reveal">
+									At <strong>Hyperpath</strong>, we craft data-driven digital strategies and
+									experiences
+									that help brands scale, connect, and lead in the digital era.
+									From building strong online identities to driving measurable growth,
+									we empower businesses to move beyond limits — one path, limitless possibilities.
+								</div>
+
+								<a href="#"
+									class="tt-btn tt-btn-outline margin-top-40 tt-magnetic-item tt-anim-fadeinup">
+									<span data-hover="Discover More">Discover More</span>
+								</a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="tt-section padding-bottom-80">
+				<div class="tt-section-inner tt-wrap max-width-1600">
+					<div class="tt-row">
+						<div class="tt-col-lg-1 padding-top-30"></div>
+
+						<!-- Left Side Heading -->
+						<div class="tt-col-lg-5">
+							<div class="tt-heading tt-heading-lg">
+								<h2 class="tt-heading-title tt-text-reveal">Transforming Ideas<br>Into Success</h2>
+							</div>
+						</div>
+
+
+						<!-- Right Side Content -->
+						<div class="tt-col-lg-5 tt-align-self-center">
+							<div class="tt-accordion tt-ac-sm tt-ac-borders tt-ac-counter">
+
+								<!-- WHO WE ARE -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">Who We Are</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000 is-open">
+										<p>
+											We are a team of creative developers and designers dedicated to building
+											meaningful digital experiences. Our passion lies in combining technology
+											with design to deliver smart, scalable, and impactful web solutions that
+											help businesses grow.
+										</p>
+									</div>
+								</div>
+
+								<!-- WHAT’S OUR GOAL -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">What’s Our Goal</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>
+											Our goal is to empower brands and individuals by transforming their ideas
+											into powerful digital realities. We focus on delivering seamless user
+											experiences, innovative interfaces, and performance-driven web applications
+											that make a real difference.
+										</p>
+									</div>
+								</div>
+
+								<!-- OUR VISION & MISSION -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">Our Vision & Mission</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>
+											<b>Vision:</b> To be the trusted partner for global brands in driving
+											digital transformation and customer engagement.<br><br>
+											<b>Mission:</b> We deliver creative, data-driven marketing solutions that
+											help businesses accelerate growth, enhance brand
+											visibility, and build meaningful customer connections.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="tt-col-lg-1 padding-top-30"></div>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="tt-section padding-top-xlg-120">
+				<div class="tt-section-inner">
+					<div class="tt-heading tt-heading-lg tt-heading-center margin-bottom-120">
+						<h2 class="tt-heading-title tt-text-reveal">Core Values</h2>
+						<p class="max-width-600 tt-anim-fadeinup text-muted">
+							Our core values define who we are and guide how we innovate, collaborate, and grow with
+							integrity and purpose.
+						</p>
+					</div>
+
+					<div class="tt-horizontal-accordion tt-hac-alter-hover tt-anim-fadeinup">
+
+						<div class="tt-hac-item cursor-alter">
+							<div class="tt-hac-item-count"></div>
+							<div class="tt-hac-item-inner">
+								<div class="tt-hac-item-content">
+									<div class="tt-haci-content-top">
+										<h2 class="tt-haci-title">Innovation <br>&amp; Creativity</h2>
+										<div class="tt-haci-description">
+											Exploring new ideas and unconventional approaches to deliver fresh,
+											impactful solutions.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="tt-hac-item cursor-alter">
+							<div class="tt-hac-item-count"></div>
+							<div class="tt-hac-item-inner">
+								<div class="tt-hac-item-content">
+									<div class="tt-haci-content-top">
+										<h2 class="tt-haci-title">Data-Driven <br> Decisions</h2>
+										<div class="tt-haci-description">
+											Informed by rigorous analysis and measurable insights for optimal
+											performance and ROI.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="tt-hac-item cursor-alter">
+							<div class="tt-hac-item-count"></div>
+							<div class="tt-hac-item-inner">
+								<div class="tt-hac-item-content">
+									<div class="tt-haci-content-top">
+										<h2 class="tt-haci-title">Client-Centric <br> Solutions</h2>
+										<div class="tt-haci-description">
+											Bespoke strategies aligned with each client's goals and challenges.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="tt-hac-item cursor-alter">
+							<div class="tt-hac-item-count"></div>
+							<div class="tt-hac-item-inner">
+								<div class="tt-hac-item-content">
+									<div class="tt-haci-content-top">
+										<h2 class="tt-haci-title">Transparency <br> &amp; Integrity</h2>
+										<div class="tt-haci-description">
+											Open communication and honesty to foster long-term partnerships.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="tt-hac-item cursor-alter">
+							<div class="tt-hac-item-count"></div>
+							<div class="tt-hac-item-inner">
+								<div class="tt-hac-item-content">
+									<div class="tt-haci-content-top">
+										<h2 class="tt-haci-title">Sustainable <br> Growth</h2>
+										<div class="tt-haci-description">
+											Immediate results while building enduring brand value and resilience.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="tt-section padding-top-xlg-120	">
+				<div class="tt-section-inner">
+					<div class="tt-heading tt-heading-lg tt-heading-center margin-bottom-80">
+						<h2 class="tt-heading-title tt-text-reveal">Key Differentiators</h2>
+						<p class="max-width-600 tt-anim-fadeinup text-muted">
+							Our key differentiators set us apart — driving innovation, building strong customer
+							relationships, and fostering trusted global partnerships.
+						</p>
+					</div>
+
+					<div class="tt-grid tt-grid-cols-3 gap-6 justify-center items-center text-center flex-wrap"
+						style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+
+						<div class="tt-card" style="flex: 1 1 300px; max-width: 340px;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-rocket" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<p class="text-muted">Accelerating Digital <br> Transformation</p>
+						</div>
+
+						<div class="tt-card" style="flex: 1 1 300px; max-width: 340px;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-handshake" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<p class="text-muted">Building Meaningful <br> Customer Connections</p>
+						</div>
+
+						<div class="tt-card" style="flex: 1 1 300px; max-width: 340px;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-globe" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<p class="text-muted">Trusted Global <br> Brand Partnerships</p>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+
+			<div class="tt-section padding-top-xlg-120 border-top">
+				<div class="tt-section-inner">
+					<div class="tt-heading tt-heading-lg tt-heading-center margin-bottom-80">
+						<h2 class="tt-heading-title tt-text-reveal">Industries We Serve</h2>
+						<p class="max-width-600 tt-anim-fadeinup text-muted">
+							We collaborate across diverse industries — from technology and healthcare to retail and
+							hospitality — delivering tailored digital solutions that drive measurable growth.
+						</p>
+					</div>
+
+					<div class="tt-grid tt-grid-cols-3 gap-6 justify-center items-center text-center flex-wrap"
+						style="display: flex; flex-wrap: wrap; justify-content: center;gap:0.5rem">
+
+						<!-- Technology & Startups -->
+						<div class="tt-card"
+							style="flex: 1 1 300px; max-width: 320px; border: 2px solid #DE0B88; border-radius: 12px; padding: 30px; box-sizing: border-box;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-laptop-code" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<h6>Technology & Startups</h6>
+							<p class="text-muted">Establishing market presence, attracting investment, and scaling
+								rapidly.</p>
+						</div>
+
+						<!-- Healthcare & Pharma -->
+						<div class="tt-card"
+							style="flex: 1 1 300px; max-width: 320px; border: 2px solid #DE0B88; border-radius: 12px; padding: 30px; box-sizing: border-box;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-notes-medical" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<h6>Healthcare & Pharma</h6>
+							<p class="text-muted">Navigating complex regulatory landscapes to build trust with patients
+								and professionals.</p>
+						</div>
+
+						<!-- Retail & E-commerce -->
+						<div class="tt-card"
+							style="flex: 1 1 300px; max-width: 320px; border: 2px solid #DE0B88; border-radius: 12px; padding: 30px; box-sizing: border-box;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-store" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<h6>Retail & E-commerce</h6>
+							<p class="text-muted">Enhancing visibility, driving sales, and building loyalty via
+								optimized storefronts.</p>
+						</div>
+
+						<!-- Hospitality & F&B -->
+						<div class="tt-card"
+							style="flex: 1 1 300px; max-width: 320px; border: 2px solid #DE0B88; border-radius: 12px; padding:30px; box-sizing: border-box;">
+							<div class="icon-circle"
+								style="background-color: #DE0B88; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+								<i class="fas fa-utensils" style="color: #fff; font-size: 32px;"></i>
+							</div>
+							<h6>Hospitality & F&B</h6>
+							<p class="text-muted">Digital experiences that attract customers and foster memorable
+								engagements.</p>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="tt-section" id="services">
+				<div class="tt-section-inner tt-wrap">
+					<div class="tt-row margin-bottom-40">
+						<div class="tt-col-xl-8">
+							<div class="tt-heading tt-heading-xxxlg no-margin">
+								<h3 class="tt-heading-subtitle tt-text-reveal">What We Offer</h3>
+								<h2 class="tt-heading-title tt-text-reveal">Our Services</h2>
+							</div>
+						</div>
+						<div class="tt-col-xl-4 tt-align-self-end">
+							<div class="max-width-600 margin-top-20 tt-text-uppercase text-pretty tt-text-reveal">
+								Discover how we help brands grow through strategy, creativity, and technology-driven
+								solutions.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<br>
+			<div class="tt-accordion tt-ac-xxlg tt-ac-hover tt-ac-counter tt-ac-borders">
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">Digital Strategy & Performance Marketing</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path
+										d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+									</path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>A clear, data-led roadmap to help your business grow with confidence.</p>
+						<p>Most businesses struggle online because they don’t have a proper strategy. At Hyperpath, we build simple, structured and effective digital strategies that show you exactly where to focus, what to improve and how to achieve predictable performance. Our goal is to remove confusion, reduce wasted spend and help you make smarter marketing decisions.</p>
+						<a href="digital-strategy-performance-marketing" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">Social Media & Content Marketing</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Build a consistent, engaging and trustworthy online presence that attracts the right audience.</p>
+						<p>Social media can grow your brand fast — but only when the content, strategy and messaging work together. At Hyperpath, we manage your social presence with a clear plan, regular content and meaningful engagement that helps your brand stand out. No guesswork, no random posting — just simple, effective content that delivers results.</p>
+						<a href="social-media-&-content-marketing" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">SEO & Conversion Optimisation</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Improve your search visibility, attract high-intent traffic and convert more customers through a clear, structured approach.</p>
+						<p>At Hyperpath, we focus on the essentials that help your business grow online — stronger rankings, better user experience and a website that consistently converts. Our SEO and CRO work together to deliver long-term, sustainable performance without unnecessary complexity.</p>
+						<a href="seo-&-conversion-optimisation" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">Web Design & Development</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Modern, fast and conversion-focused websites built to help your business grow.</p>
+						<p>Your website is often the first impression customers get — and it needs to work beautifully, load quickly and communicate clearly. At Hyperpath, we design and build websites that look professional, feel easy to use and guide visitors towards taking action.</p>
+						<a href="web-design-&-development" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">Branding & Creative Production</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Build a brand that looks confident, feels consistent and stands out everywhere it appears.</p>
+						<p>A strong brand goes beyond a logo — it shapes how people see you, trust you and remember you. At Hyperpath, we create clear, modern and distinctive brand identities supported by professional creative production.</p>
+						<a href="branding-&-creative-production" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">Paid Advertising</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Reach the right audience, generate consistent leads and grow your business with data-led advertising campaigns.</p>
+						<p>Paid ads work best when the targeting, messaging and funnel support each other. At Hyperpath, we run high-performing ad campaigns across multiple platforms to help you increase visibility, improve conversions and maximise return on your spend.</p>
+						<a href="paid-advertising" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="tt-accordion-item tt-anim-fadeinup">
+					<div class="tt-accordion-heading">
+						<div class="tt-ac-head cursor-alter">
+							<div class="tt-ac-head-inner">
+								<h4 class="tt-ac-head-title">AI-Powered Automations</h4>
+							</div>
+						</div>
+						<div class="tt-accordion-caret">
+							<div class="tt-accordion-caret-inner tt-magnetic-item">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+									<path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"></path>
+								</svg>
+							</div>
+						</div>
+					</div>
+					<div class="tt-accordion-content max-width-1400">
+						<p>Smarter systems, faster workflows and better customer experiences — powered by AI.</p>
+						<p>AI is transforming how modern businesses operate. At Hyperpath, we integrate practical, results-focused AI tools that reduce manual work, speed up responses and improve how customers interact with your brand.</p>
+						<a href="ai-powered-automations" class="tt-btn tt-btn-outline tt-magnetic-item">
+							<span data-hover="Let’s Connect!">Read More</span>
+						</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="tt-section">
+				<div class="tt-section-inner">
+					<div class="tt-scrolling-text-crossed">
+						<div class="tt-scrolling-text-crossed-inner">
+
+							<!-- Top Scrolling Text -->
+							<div class="tt-scrolling-text scrt-dyn-separator scrt-color-reverse" data-scroll-speed="10"
+								data-change-direction="true" data-opposite-direction="true">
+								<div class="tt-scrt-inner">
+									<div class="tt-scrt-content">
+										ONE PATH. LIMITLESS.
+										<span class="tt-scrt-separator">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+												<path
+													d="M13.025 1l-2.847 2.828 6.176 6.176H0v3.992h16.354l-6.176 6.176 2.847 2.828L24 12z">
+												</path>
+											</svg>
+										</span>
+										HYPERPATH — CREATING DIGITAL POSSIBILITIES
+										<span class="tt-scrt-separator">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+												<path
+													d="M13.025 1l-2.847 2.828 6.176 6.176H0v3.992h16.354l-6.176 6.176 2.847 2.828L24 12z">
+												</path>
+											</svg>
+										</span>
+									</div>
+								</div>
+							</div>
+
+							<!-- Bottom Scrolling Text -->
+							<div class="tt-scrolling-text scrt-dyn-separator" data-scroll-speed="10"
+								data-change-direction="true">
+								<div class="tt-scrt-inner">
+									<div class="tt-scrt-content">
+										HYPERPATH — ONE PATH. LIMITLESS.
+										<span class="tt-scrt-separator">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+												<path
+													d="M13.025 1l-2.847 2.828 6.176 6.176H0v3.992h16.354l-6.176 6.176 2.847 2.828L24 12z">
+												</path>
+											</svg>
+										</span>
+										EMPOWERING BRANDS BEYOND BOUNDARIES
+										<span class="tt-scrt-separator">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+												<path
+													d="M13.025 1l-2.847 2.828 6.176 6.176H0v3.992h16.354l-6.176 6.176 2.847 2.828L24 12z">
+												</path>
+											</svg>
+										</span>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- End tt-section -->
+			<div class="tt-section" id="projects">
+				<div class="tt-section-inner tt-wrap">
+					<div class="tt-row margin-bottom-40">
+						<div class="tt-col-xl-8">
+							<div class="tt-heading tt-heading-xxxlg no-margin">
+								<h3 class="tt-heading-subtitle tt-text-reveal">Our Work</h3>
+								<h2 class="tt-heading-title tt-text-reveal">Projects</h2>
+							</div>
+						</div>
+						<div class="tt-col-xl-4 tt-align-self-end">
+							<div class="max-width-600 margin-top-20 tt-text-uppercase text-pretty tt-text-reveal">
+								A showcase of the ideas we've transformed into powerful digital experiences — from
+								strategy and design to full-scale development.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="tt-section no-padding-top padding-top-xlg-80 padding-bottom-20 padding-bottom-xlg-80">
+				<div class="tt-section-inner">
+
+					<div class="tt-portfolio-preview-list tt-ppli-portrait tt-ppli-hover">
+						<div class="tt-ppl-items-list">
+
+							<!-- Item 1 -->
+							<a href="https://indianthali.co.uk/" class="tt-ppl-item">
+								<div class="tt-ppli-preview">
+									<div class="tt-ppli-preview-image">
+										<img src="assets/img/projects/1.png" alt="Indian Thali">
+									</div>
+								</div>
+
+								<div class="tt-ppl-item-inner">
+									<div class="tt-ppl-item-holder">
+										<div class="tt-ppli-col tt-ppli-col-count">
+											<div class="tt-ppli-count"></div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-caption">
+											<div class="tt-ppli-caption">
+												<h2 class="tt-ppli-title">Indian Thali</h2>
+												<div class="tt-ppli-categories">
+													<div class="tt-ppli-category">Restaurant</div>
+												</div>
+											</div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-info tt-justify-content-md-end">
+											<div class="tt-ppli-info">Website Design / Development</div>
+										</div>
+									</div>
+								</div>
+							</a>
+
+							<!-- Item 2 -->
+							<a href="https://www.cieloitaliano.co.uk/" class="tt-ppl-item">
+								<div class="tt-ppli-preview">
+									<div class="tt-ppli-preview-image">
+										<img src="assets/img/projects/2.png" alt="Cielo Italiano">
+									</div>
+								</div>
+
+								<div class="tt-ppl-item-inner">
+									<div class="tt-ppl-item-holder">
+										<div class="tt-ppli-col tt-ppli-col-count">
+											<div class="tt-ppli-count"></div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-caption">
+											<div class="tt-ppli-caption">
+												<h2 class="tt-ppli-title">Cielo Italiano</h2>
+												<div class="tt-ppli-categories">
+													<div class="tt-ppli-category">Restaurant</div>
+												</div>
+											</div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-info tt-justify-content-md-end">
+											<div class="tt-ppli-info">Branding / Website</div>
+										</div>
+									</div>
+								</div>
+							</a>
+
+							<!-- Item 3 -->
+							<a href="https://www.thedetroitslice.co.uk/" class="tt-ppl-item">
+								<div class="tt-ppli-preview">
+									<div class="tt-ppli-preview-image">
+										<img src="assets/img/projects/3.png" alt="The Detroit Slice">
+									</div>
+								</div>
+
+								<div class="tt-ppl-item-inner">
+									<div class="tt-ppl-item-holder">
+										<div class="tt-ppli-col tt-ppli-col-count">
+											<div class="tt-ppli-count"></div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-caption">
+											<div class="tt-ppli-caption">
+												<h2 class="tt-ppli-title">The Detroit Slice</h2>
+												<div class="tt-ppli-categories">
+													<div class="tt-ppli-category">Restaurant</div>
+												</div>
+											</div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-info tt-justify-content-md-end">
+											<div class="tt-ppli-info">UI / UX / Development</div>
+										</div>
+									</div>
+								</div>
+							</a>
+
+							<!-- Item 4 -->
+							<a href="https://sariskadining.com/" class="tt-ppl-item">
+								<div class="tt-ppli-preview">
+									<div class="tt-ppli-preview-image">
+										<img src="assets/img/projects/4.png" alt="Sariska">
+									</div>
+								</div>
+
+								<div class="tt-ppl-item-inner">
+									<div class="tt-ppl-item-holder">
+										<div class="tt-ppli-col tt-ppli-col-count">
+											<div class="tt-ppli-count"></div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-caption">
+											<div class="tt-ppli-caption">
+												<h2 class="tt-ppli-title">Sariska</h2>
+												<div class="tt-ppli-categories">
+													<div class="tt-ppli-category">Restaurant</div>
+												</div>
+											</div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-info tt-justify-content-md-end">
+											<div class="tt-ppli-info">Brand Identity / Website</div>
+										</div>
+									</div>
+								</div>
+							</a>
+
+							<!-- Item 5 -->
+							<a href="https://toptyresltd.co.uk/" class="tt-ppl-item">
+								<div class="tt-ppli-preview">
+									<div class="tt-ppli-preview-image">
+										<img src="assets/img/projects/5.png" alt="Top Tyres">
+									</div>
+								</div>
+
+								<div class="tt-ppl-item-inner">
+									<div class="tt-ppl-item-holder">
+										<div class="tt-ppli-col tt-ppli-col-count">
+											<div class="tt-ppli-count"></div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-caption">
+											<div class="tt-ppli-caption">
+												<h2 class="tt-ppli-title">Top Tyres</h2>
+												<div class="tt-ppli-categories">
+													<div class="tt-ppli-category">Tyre Service</div>
+												</div>
+											</div>
+										</div>
+										<div class="tt-ppli-col tt-ppli-col-info tt-justify-content-md-end">
+											<div class="tt-ppli-info">Business Website</div>
+										</div>
+									</div>
+								</div>
+							</a>
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+			<!-- End tt-section -->
+			<div class="tt-section padding-top-lg-120 padding-top-80 padding-bottom-80">
+				<div class="tt-section-inner tt-wrap max-width-1450">
+					<div class="tt-row">
+						<div class="tt-col-lg-3">
+							<div class="tt-heading tt-heading-lg">
+								<h2 class="tt-heading-title tt-text-reveal">FAQs</h2>
+							</div>
+							<p class="text-muted">
+								Frequently asked questions about our projects and services.
+							</p>
+						</div>
+
+						<div class="tt-col-lg-1 padding-top-30"></div>
+
+						<div class="tt-col-lg-8 tt-align-self-center">
+							<div class="tt-accordion tt-ac-sm tt-ac-borders tt-ac-counter">
+
+								<!-- FAQ 1 -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">What types of projects do you work on?
+												</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>We specialize in creating modern websites, interactive UI applications,
+											and digital experiences — ranging from portfolio sites to
+											enterprise-grade web apps.</p>
+									</div>
+								</div>
+
+								<!-- FAQ 2 -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">How long does a typical project take?
+												</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>It depends on the project’s scale. Smaller websites usually take 1–2
+											weeks, while larger or custom applications can take 4–8 weeks from
+											concept to launch.</p>
+									</div>
+								</div>
+
+								<!-- FAQ 3 -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">Do you provide maintenance or
+													post-launch support?</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>Yes, we provide ongoing maintenance, updates, and feature improvements to
+											ensure your project stays secure, optimized, and up to date.</p>
+									</div>
+								</div>
+
+								<!-- FAQ 4 -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">Can you customize an existing website
+													or app?</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>Absolutely! We can revamp your existing project with a fresh design,
+											performance optimization, or new feature integration while keeping your
+											original goals intact.</p>
+									</div>
+								</div>
+
+								<!-- FAQ 5 -->
+								<div class="tt-accordion-item tt-anim-fadeinup">
+									<div class="tt-accordion-heading">
+										<div class="tt-ac-head cursor-alter">
+											<div class="tt-ac-head-inner">
+												<h4 class="tt-ac-head-title">How can I start a project with you?
+												</h4>
+											</div>
+										</div>
+										<div class="tt-accordion-caret">
+											<div class="tt-accordion-caret-inner tt-magnetic-item">
+												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+													<path
+														d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z">
+													</path>
+												</svg>
+											</div>
+										</div>
+									</div>
+									<div class="tt-accordion-content max-width-1000">
+										<p>Simply reach out via our <a href="contact" class="tt-link">contact
+												page</a> with your project idea or goals. We’ll schedule a quick
+											discussion and get things rolling!</p>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- End tt-section -->
+			<div class="tt-section">
+				<div class="tt-section-inner tt-wrap">
+					<div class="tt-row">
+						<div class="tt-col-xl-8">
+							<div class="tt-heading tt-heading-xxxlg no-margin">
+								<h3 class="tt-heading-subtitle tt-text-reveal">Meet the Minds</h3>
+								<h2 class="tt-heading-title tt-text-reveal">Core Team</h2>
+							</div>
+						</div>
+						<div class="tt-col-xl-4 tt-align-self-end">
+							<div class="max-width-600 margin-top-20 tt-text-uppercase text-pretty tt-text-reveal">
+								The people behind the vision — driving creativity, technology, and strategy forward.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="tt-section">
+				<div class="tt-section-inner max-width-2200">
+					<div id="portfolio-grid" class="pgi-hover">
+						<div class="tt-grid ttgr-layout-3 ttgr-gap-3">
+							<div class="tt-grid-items-wrap isotope-items-wrap">
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Shubham Pal.png" loading="lazy"
+																alt="Shubham Pal">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Shubham Pal</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Founder
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Hetesh Pal.png" loading="lazy"
+																alt="Hetesh Pal">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Hetesh Pal</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Co-Founder
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/CharlieShakeshaft.png"
+																loading="lazy" alt="Charlie Shakeshaft">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Charlie Shakeshaft</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Social Media & Content Strategy
+															Specialist</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+
+								<!-- <div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Sonu Pandey.png" loading="lazy"
+																alt="Sonu Pandey">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Sonu Pandey</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Web Developer
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div> -->
+
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Reza Ramadhan.png" loading="lazy"
+																alt="Reza Ramadhan">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Reza Ramadhan</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Head of Operations</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Dana Datuin.png" loading="lazy"
+																alt="Dana Datuin">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Dana Datuin</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Social Media Manager</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+
+								<div class="tt-grid-item isotope-item team">
+									<div class="ttgr-item-inner">
+										<div class="portfolio-grid-item">
+											<a href="#" class="pgi-image-wrap">
+												<div class="pgi-image-holder">
+													<div class="pgi-image-inner tt-anim-zoomin">
+														<figure class="pgi-image ttgr-height">
+															<img src="assets/img/teams/Sheilla.png" loading="lazy"
+																alt="Sheilla">
+														</figure>
+													</div>
+												</div>
+											</a>
+											<div class="pgi-caption">
+												<div class="pgi-caption-inner">
+													<h2 class="pgi-title"><a href="#">Sheilla</a></h2>
+													<div class="pgi-categories-wrap">
+														<div class="pgi-category">Creative Specialist - Branding &
+															Multimedia Design</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="tt-section border-bottom">
+				<div class="tt-section-inner tt-wrap">
+					<div class="tt-sticker">
+						<div class="tt-row">
+							<div class="tt-col-lg-5 margin-bottom-40">
+								<div class="tt-sticker-sticky tt-sticky-element">
+									<div class="tt-heading tt-heading-xxlg">
+										<h3 class="tt-heading-subtitle tt-text-reveal">Testimonials</h3>
+										<h2 class="tt-heading-title tt-text-reveal">What<br>They Say</h2>
+										<p class="max-width-500 tt-text-uppercase tt-text-reveal">
+											Genuine words from our clients who trusted us to bring their vision to
+											life.
+										</p>
+									</div>
+
+									<a href="contact" class="tt-btn tt-btn-outline tt-magnetic-item tt-anim-fadeinup">
+										<span data-hover="Read More">Read More</span>
+									</a>
+								</div>
+							</div>
+
+							<div class="tt-col-lg-7">
+								<div class="tt-sticker-scroller">
+									<div class="tt-sticky-testimonials tt-stte-reversed-colors">
+
+										<div class="tt-stte-item">
+											<div class="tt-stte-card cursor-alter">
+												<div class="tt-stte-card-caption">
+													<div class="tt-stte-text">
+														“Working with this team was an incredible experience. They
+														understood our goals and delivered beyond expectations.”
+													</div>
+													<div class="tt-stte-subtext">— Sarah Williams, Marketing Head
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="tt-stte-item">
+											<div class="tt-stte-card cursor-alter">
+												<div class="tt-stte-card-caption">
+													<div class="tt-stte-text">
+														“Their creativity, attention to detail, and technical skill
+														helped us achieve an outstanding digital presence.”
+													</div>
+													<div class="tt-stte-subtext">— Daniel Lee, Co-Founder, NovaTech
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="tt-stte-item">
+											<div class="tt-stte-card cursor-alter">
+												<div class="tt-stte-card-caption">
+													<div class="tt-stte-text">
+														“The team communicated clearly, worked efficiently, and
+														turned our vision into something exceptional.”
+													</div>
+													<div class="tt-stte-subtext">— Aisha Patel, Project Manager
+													</div>
+												</div>
+											</div>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="tt-section">
+				<div class="tt-section-inner tt-wrap">
+					<div class="tt-row margin-bottom-40">
+						<div class="tt-col-xl-8">
+							<div class="tt-heading tt-heading-xxxlg no-margin">
+								<h3 class="tt-heading-subtitle tt-text-reveal">Contact</h3>
+								<h2 class="tt-heading-title tt-text-reveal">Let’s Work<br>Together</h2>
+							</div>
+						</div>
+
+						<div class="tt-col-xl-4 tt-align-self-end tt-xl-column-reverse margin-top-40">
+							<div class="max-width-600 margin-bottom-10 tt-text-uppercase text-pretty tt-text-reveal">
+								Have an idea in mind? Tell us about your project — we’d love to collaborate and
+								bring your vision to life.
+							</div>
+
+							<div class="tt-big-round-ptn margin-top-30 margin-bottom-xlg-80 tt-anim-fadeinup">
+								<a href="contact" class="tt-big-round-ptn-holder tt-magnetic-item">
+									<div class="tt-big-round-ptn-inner">Let’s<br>Connect!</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<footer id="tt-footer">
+			<div class="tt-footer-inner tt-wrap">
+				<div class="tt-row">
+
+					<!-- Quick Links -->
+					<div class="tt-col-xl-3 tt-col-sm-6">
+						<div class="tt-footer-widget">
+							<h5 class="tt-footer-widget-heading">Quick
+								Links</h5>
+							<ul class="tt-footer-widget-list">
+								<li><a href="index"
+										class="tt-link">Home</a></li>
+								<!-- <li><a href="#about" class="tt-link">About Us</a></li>
+										<li><a href="#services" class="tt-link">Services</a></li>
+										<li><a href="#projects" class="tt-link">Projects</a></li> -->
+								<li><a href="contact"
+										class="tt-link">Contact</a></li>
+								<li><a href="privacy-policy"
+										class="tt-link">Privacy
+										Policy</a></li>
+								<li><a href="terms-&-conditions"
+										class="tt-link">Terms and Conditions</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- Services Categories -->
+					<div class="tt-col-xl-4 tt-col-sm-6">
+						<div class="tt-footer-widget">
+							<h5 class="tt-footer-widget-heading">Our Services</h5>
+							<ul class="tt-footer-widget-list">
+								<li>
+									<a href="digital-strategy-performance-marketing" class="tt-link">
+										Digital Strategy & Performance Marketing
+									</a>
+								</li>
+								<li>
+									<a href="social-media-&-content-marketing" class="tt-link">
+										Social Media & Content Marketing
+									</a>
+								</li>
+								<li>
+									<a href="seo-&-conversion-optimisation" class="tt-link">
+										SEO & Conversion Optimisation
+									</a>
+								</li>
+								<li>
+									<a href="web-design-&-development" class="tt-link">
+										Web Design & Development
+									</a>
+								</li>
+								<li>
+									<a href="branding-&-creative-production" class="tt-link">
+										Branding & Creative Production
+									</a>
+								</li>
+								<li>
+									<a href="paid-advertising" class="tt-link">
+										Paid Advertising
+									</a>
+								</li>
+								<li>
+									<a href="ai-powered-automations" class="tt-link">
+										AI-Powered Automations
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+
+					<!-- Contact Info -->
+					<div class="tt-col-xl-3 tt-col-sm-6">
+						<div class="tt-footer-widget">
+							<h5
+								class="tt-footer-widget-heading">Contact</h5>
+							<ul class="tt-footer-widget-list">
+								<li><span class="tt-link">58 Ilfracombe
+										Road, <br> Offerton, SK2
+										5AS</span></li>
+								<li><a
+										href="mailto:hello@hyperpath.in"
+										class="tt-link">hello@hyperpath.in</a>
+								</li>
+
+								<li>
+									<div class="tt-social-buttons">
+										<ul>
+
+											<li><a
+													href="https://www.facebook.com/hyperpath.digital"
+													class="tt-magnetic-item"><i
+														class="fa-brands fa-facebook-f"></i></a></li>
+											<li><a
+													href="https://www.instagram.com/hyperpath_digital"
+													class="tt-magnetic-item"><i
+														class="fa-brands fa-instagram"></i></a></li>
+											<li><a
+													href="https://www.linkedin.com/company/hyperpath-digital/"
+													class="tt-magnetic-item"><i
+														class="fa-brands fa-linkedin-in"></i></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- Logo + Copyright -->
+					<div
+						class="tt-col-xl-2 tt-col-sm-6 tt-justify-content-xl-end">
+						<div class="tt-footer-widget">
+							<ul class="tt-footer-widget-list">
+								<li>
+									<div class="tt-footer-logo">
+										<a href="index"
+											class="tt-magnetic-item">
+											<img
+												src="assets/img/logo-light.png"
+												class="tt-logo-light"
+												loading="lazy"
+												alt="Hyperpath Logo">
+											<img
+												src="assets/img/logo-dark.png"
+												class="tt-logo-dark"
+												loading="lazy"
+												alt="Hyperpath Logo">
+										</a>
+									</div>
+								</li>
+								<li>
+									<div class="tt-footer-copyright">
+										© <span
+											class="tt-copyright-year"></span>HYPERPATH<br>
+										All Rights Reserved
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</footer>
+
+
+
+
+		<a href="#" class="tt-scroll-to-top">
+			<div class="tt-stt-progress tt-magnetic-item">
+				<svg class="tt-stt-progress-circle" width="100%" height="100%" viewBox="-1 -1 102 102">
+					<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+				</svg>
+			</div>
+		</a>
+
+		</div>
+
+
+	</main>
+
+	<script src="assets/vendor/jquery/jquery.min.js"></script>
+	<script src="assets/vendor/gsap/gsap.min.js"></script>
+	<script src="assets/vendor/gsap/ScrollToPlugin.min.js"></script>
+	<script src="assets/vendor/gsap/ScrollTrigger.min.js"></script>
+	<script src="assets/vendor/lenis.min.js"></script>
+	<script src="assets/vendor/isotope/imagesloaded.pkgd.min.js"></script>
+	<script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
+	<script src="assets/vendor/isotope/packery-mode.pkgd.min.js"></script>
+	<script src="assets/vendor/fancybox/js/fancybox.umd.js"></script>
+	<script src="assets/vendor/swiper/js/swiper-bundle.min.js"></script>
+	<script src="assets/js/script.js"></script>
+</body>
+
+
+
+</html>
