@@ -92,10 +92,51 @@
                                     <ul class="tt-main-menu-list">
                                         <li><a href="index">Home</a></li>
                                         <li><a href="#about">About</a></li>
-                                        <li><a
-                                                href="#services">Services</a></li>
-                                        <li><a
-                                                href="#projects">Projects</a></li>
+                                        <li class="tt-submenu-wrap tt-submenu-master">
+                                            <div class="tt-submenu-trigger">
+                                                <a href="#">Services</a>
+                                            </div>
+                                            <div class="tt-submenu">
+                                                <ul class="tt-submenu-list">
+                                                    <li>
+                                                        <a href="digital-strategy-performance-marketing">
+                                                            Digital Strategy & Performance Marketing
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="social-media-&-content-marketing">
+                                                            Social Media & Content Marketing
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="seo-&-conversion-optimisation">
+                                                            SEO & Conversion Optimisation
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="web-design-&-development">
+                                                            Web Design & Development
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="branding-&-creative-production">
+                                                            Branding & Creative Production
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="paid-advertising">
+                                                            Paid Advertising
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="ai-powered-automations">
+                                                            AI-Powered Automations
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li><a href="#projects">Projects</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -226,15 +267,11 @@
                         <div class="tt-row tt-xl-row-reverse">
 
                             <div class="tt-col-xl-12">
-                                <div
-                                    class="tt-contact-info-inner tt-anim-fadeinup">
+                                <div class="tt-contact-info-inner tt-anim-fadeinup">
 
-                                    <div
-                                        class="tt-heading tt-heading-xxxlg margin-bottom-40">
-                                        <h3
-                                            class="tt-heading-subtitle">Legal</h3>
-                                        <h2 class="tt-heading-title">Privacy
-                                            Policy</h2>
+                                    <div class="tt-heading tt-heading-xxxlg margin-bottom-40">
+                                        <h3 class="tt-heading-subtitle">Legal</h3>
+                                        <h2 class="tt-heading-title">Privacy Policy</h2>
                                         <p class="margin-top-10">
                                             <strong>Last updated:</strong>
                                             05 December 2025
@@ -243,279 +280,160 @@
 
                                     <div class="tt-content">
 
-                                        <!-- 1 -->
                                         <section class="margin-bottom-40">
                                             <h4>1. Who We Are</h4>
                                             <p>
-                                                This Privacy Policy explains
-                                                how Hyperpath Digital
-                                                (“we”, “our”, “us”)
-                                                collects, uses, and protects
-                                                your personal data when you
-                                                visit our website,
+                                                This Privacy Policy explains how Hyperpath Digital
+                                                (“we”, “our”, “us”) collects, uses, and protects
+                                                your personal data when you visit our website,
                                                 contact us, or work with us.
                                             </p>
                                             <p>
-                                                <strong>Contact
-                                                    details:</strong><br>
-                                                Email: <a
-                                                    href="mailto:hello@hyperpath.co.uk">hello@hyperpath.co.uk</a><br>
-                                                Address: 58 Ilfracombe Road,
-                                                Offerton, SK2 5AS,
-                                                United Kingdom
+                                                <strong>Contact details:</strong><br>
+                                                Email: <a href="mailto:hello@hyperpath.in">hello@hyperpath.in</a><br>
+                                                Address: New Delhi, India
                                             </p>
                                         </section>
 
-                                        <!-- 2 -->
                                         <section class="margin-bottom-40">
-                                            <h4>2. Information We
-                                                Collect</h4>
-                                            <p>We may collect the following
-                                                types of information:</p>
+                                            <h4>2. Information We Collect</h4>
+                                            <p>We may collect the following types of information:</p>
                                             <ul>
-                                                <li><strong>Contact
-                                                        details</strong> –
-                                                    name, email
-                                                    address, and any
-                                                    information you choose
-                                                    to share
-                                                    in your message or
-                                                    enquiry form.</li>
-                                                <li><strong>Business
-                                                        details</strong> –
-                                                    company name,
-                                                    website, and project
-                                                    information you provide
-                                                    when
-                                                    discussing a potential
-                                                    collaboration.</li>
-                                                <li><strong>Usage
-                                                        data</strong> –
-                                                    basic technical
-                                                    information such as IP
-                                                    address, browser type,
-                                                    and
-                                                    pages visited, typically
-                                                    collected via analytics
-                                                    tools or server
-                                                    logs.</li>
+                                                <li><strong>Contact details</strong> – name, email
+                                                    address, and any information you choose to share
+                                                    in your message or enquiry form.</li>
+                                                <li><strong>Business details</strong> – company name,
+                                                    website, and project information you provide when
+                                                    discussing a potential collaboration.</li>
+                                                <li><strong>Usage data</strong> – basic technical
+                                                    information such as IP address, browser type, and
+                                                    pages visited, typically collected via analytics
+                                                    tools or server logs.</li>
                                             </ul>
                                         </section>
 
-                                        <!-- 3 -->
                                         <section class="margin-bottom-40">
-                                            <h4>3. How We Use Your
-                                                Information</h4>
-                                            <p>We use the information we
-                                                collect to:</p>
+                                            <h4>3. How We Use Your Information</h4>
+                                            <p>We use the information we collect to:</p>
                                             <ul>
-                                                <li>Respond to your
-                                                    enquiries and
-                                                    messages;</li>
-                                                <li>Prepare proposals and
-                                                    discuss potential
-                                                    projects;</li>
-                                                <li>Deliver and manage the
-                                                    services you
-                                                    request;</li>
-                                                <li>Improve our website,
-                                                    content, and
-                                                    services;</li>
-                                                <li>Maintain basic records
-                                                    for administration and
+                                                <li>Respond to your enquiries and messages;</li>
+                                                <li>Prepare proposals and discuss potential projects;</li>
+                                                <li>Deliver and manage the services you request;</li>
+                                                <li>Improve our website, content, and services;</li>
+                                                <li>Maintain basic records for administration and
                                                     legal compliance.</li>
                                             </ul>
                                         </section>
 
-                                        <!-- 4 -->
                                         <section class="margin-bottom-40">
-                                            <h4>4. Legal Bases for
-                                                Processing</h4>
+                                            <h4>4. Legal Bases for Processing</h4>
                                             <p>
-                                                Where applicable (for
-                                                example within the UK /
-                                                EEA),
-                                                we process your personal
-                                                data on one or more of the
+                                                Where applicable (for example within India),
+                                                we process your personal data on one or more of the
                                                 following legal bases:
                                             </p>
                                             <ul>
-                                                <li><strong>Consent</strong>
-                                                    – when you actively
-                                                    choose to contact us or
-                                                    request
-                                                    information;</li>
-                                                <li><strong>Legitimate
-                                                        interests</strong> –
-                                                    to run
-                                                    and grow our business,
-                                                    communicate with
-                                                    potential
-                                                    clients, and keep our
-                                                    services secure;</li>
-                                                <li><strong>Legal
-                                                        obligations</strong>
-                                                    – where we
-                                                    need to keep certain
-                                                    records for tax,
-                                                    accounting,
-                                                    or compliance
-                                                    purposes.</li>
+                                                <li><strong>Consent</strong> – when you actively
+                                                    choose to contact us or request information;</li>
+                                                <li><strong>Legitimate interests</strong> – to run
+                                                    and grow our business, communicate with potential
+                                                    clients, and keep our services secure;</li>
+                                                <li><strong>Legal obligations</strong> – where we
+                                                    need to keep certain records for tax,
+                                                    accounting, or compliance purposes.</li>
                                             </ul>
                                         </section>
 
-                                        <!-- 5 -->
                                         <section class="margin-bottom-40">
-                                            <h4>5. Sharing Your
-                                                Information</h4>
+                                            <h4>5. Sharing Your Information</h4>
                                             <p>
-                                                We do not sell your personal
-                                                data. We may share it
+                                                We do not sell your personal data. We may share it
                                                 only where necessary with:
                                             </p>
                                             <ul>
-                                                <li>Trusted service
-                                                    providers such as
-                                                    hosting,
-                                                    email, or analytics
-                                                    platforms;</li>
-                                                <li>Professional advisers
-                                                    (e.g., legal or
-                                                    accounting) where
-                                                    required;</li>
-                                                <li>Third-party platforms we
-                                                    use to deliver services
-                                                    (e.g., Meta, Google,
-                                                    TikTok, LinkedIn), if
-                                                    your
-                                                    project involves
-                                                    them;</li>
-                                                <li>Authorities or
-                                                    regulators, if we are
-                                                    legally
+                                                <li>Trusted service providers such as hosting,
+                                                    email, or analytics platforms;</li>
+                                                <li>Professional advisers (e.g., legal or
+                                                    accounting) where required;</li>
+                                                <li>Third-party platforms we use to deliver services
+                                                    (e.g., Meta, Google, TikTok, LinkedIn), if your
+                                                    project involves them;</li>
+                                                <li>Authorities or regulators, if we are legally
                                                     required to do so.</li>
                                             </ul>
                                         </section>
 
-                                        <!-- 6 -->
                                         <section class="margin-bottom-40">
-                                            <h4>6. Data Retention &amp;
-                                                Security</h4>
+                                            <h4>6. Data Retention &amp; Security</h4>
                                             <p>
-                                                We keep your personal data
-                                                only for as long as is
-                                                reasonably necessary for the
-                                                purposes described in
-                                                this policy, or as required
-                                                by law (for example,
-                                                for tax and accounting
-                                                records).
+                                                We keep your personal data only for as long as is
+                                                reasonably necessary for the purposes described in
+                                                this policy, or as required by law (for example,
+                                                for tax and accounting records).
                                             </p>
                                             <p>
-                                                We use reasonable technical
-                                                and organisational
-                                                measures to protect your
-                                                data against unauthorised
-                                                access, loss, or misuse.
-                                                However, no method of
-                                                transmission or storage is
-                                                completely risk-free.
+                                                We use reasonable technical and organisational
+                                                measures to protect your data against unauthorised
+                                                access, loss, or misuse. However, no method of
+                                                transmission or storage is completely risk-free.
                                             </p>
                                         </section>
 
-                                        <!-- 7 -->
                                         <section class="margin-bottom-40">
                                             <h4>7. Your Privacy Rights</h4>
                                             <p>
-                                                Depending on your location
-                                                and local laws, you may
-                                                have some or all of the
-                                                following rights:
+                                                Depending on your location and local laws, you may
+                                                have some or all of the following rights:
                                             </p>
                                             <ul>
-                                                <li>To access the personal
-                                                    data we hold about
-                                                    you;</li>
-                                                <li>To request correction of
-                                                    inaccurate or incomplete
-                                                    data;</li>
-                                                <li>To request deletion of
-                                                    your personal data,
-                                                    where
-                                                    it is no longer
-                                                    needed;</li>
-                                                <li>To object to or restrict
-                                                    certain types of
-                                                    processing;</li>
-                                                <li>To withdraw consent
-                                                    where processing is
-                                                    based on
+                                                <li>To access the personal data we hold about you;</li>
+                                                <li>To request correction of inaccurate or incomplete data;</li>
+                                                <li>To request deletion of your personal data,
+                                                    where it is no longer needed;</li>
+                                                <li>To object to or restrict certain types of processing;</li>
+                                                <li>To withdraw consent where processing is based on
                                                     your consent.</li>
                                             </ul>
                                             <p>
-                                                To exercise these rights,
-                                                contact us at
-                                                <a
-                                                    href="mailto:hello@hyperpath.co.uk">hello@hyperpath.co.uk</a>.
+                                                To exercise these rights, contact us at
+                                                <a href="mailto:hello@hyperpath.in">hello@hyperpath.in</a>.
                                             </p>
                                         </section>
 
-                                        <!-- 8 -->
                                         <section class="margin-bottom-40">
-                                            <h4>8. Cookies &amp; Tracking
-                                                Technologies</h4>
+                                            <h4>8. Cookies &amp; Tracking Technologies</h4>
                                             <p>
-                                                Our website may use cookies
-                                                or similar technologies
-                                                to help it function
-                                                properly, understand how
-                                                visitors
-                                                use the site, and improve
-                                                user experience. You can
-                                                usually control cookies
-                                                through your browser
-                                                settings
-                                                by blocking or deleting
-                                                them, but some features of
-                                                the site may not work
-                                                correctly if cookies are
-                                                disabled.
+                                                Our website may use cookies or similar technologies
+                                                to help it function properly, understand how visitors
+                                                use the site, and improve user experience. You can
+                                                usually control cookies through your browser
+                                                settings by blocking or deleting them, but some
+                                                features of the site may not work correctly if
+                                                cookies are disabled.
                                             </p>
                                         </section>
 
-                                        <!-- 9 -->
                                         <section class="margin-bottom-10">
-                                            <h4>9. Changes &amp; How to
-                                                Contact Us</h4>
+                                            <h4>9. Changes &amp; How to Contact Us</h4>
                                             <p>
-                                                We may update this Privacy
-                                                Policy from time to time
-                                                to reflect changes in our
-                                                services, legal
-                                                requirements, or how we
-                                                handle data. When we do, we
-                                                will update the “Last
-                                                updated” date at the top of
-                                                this page. We encourage you
-                                                to review this page
-                                                occasionally.
+                                                We may update this Privacy Policy from time to time
+                                                to reflect changes in our services, legal
+                                                requirements, or how we handle data. When we do, we
+                                                will update the “Last updated” date at the top of
+                                                this page.
                                             </p>
                                             <p>
-                                                If you have any questions or
-                                                concerns about this
-                                                Privacy Policy or how we
-                                                handle your data, please
+                                                If you have any questions or concerns about this
+                                                Privacy Policy or how we handle your data, please
                                                 contact us at:
                                             </p>
                                             <ul>
                                                 <li><strong>Email:</strong>
-                                                    <a
-                                                        href="mailto:hello@hyperpath.co.uk">hello@hyperpath.co.uk</a>
+                                                    <a href="mailto:hello@hyperpath.in">hello@hyperpath.in</a>
                                                 </li>
                                                 <li><strong>Address:</strong>
-                                                    58 Ilfracombe Road,
-                                                    Offerton, SK2 5AS,
-                                                    United Kingdom</li>
+                                                    New Delhi, India
+                                                </li>
                                             </ul>
                                         </section>
 
@@ -523,6 +441,7 @@
 
                                 </div>
                             </div>
+
 
                         </div>
                     </div>

@@ -1645,7 +1645,7 @@ body:not(.tt-m-menu-open) #tt-header.tt-header-scroll.tt-fly-up {
 	.tt-submenu-list li a {
 		position: relative;
 		display: block;
-		padding: 8px 25px 8px 20px;
+		padding: 8px 15px 8px 15px;
 		text-decoration: none;
 		font-size: 15px;
 		font-weight: normal;
@@ -1661,12 +1661,6 @@ body:not(.tt-m-menu-open) #tt-header.tt-header-scroll.tt-fly-up {
 	.tt-submenu-list>li.active>.tt-submenu-trigger a {
 		color: var(--tt-sub-menu-link-hover-color);
 	}
-
-	/* Set submenu position to right on last menu list element */
-	/*.tt-main-menu-list > li:last-child > .tt-submenu {
-		left: auto;
-		right: 0;
-	}*/
 
 	/* Submenu toggle */
 	.tt-m-caret {

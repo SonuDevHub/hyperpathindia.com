@@ -92,10 +92,51 @@
                                     <ul class="tt-main-menu-list">
                                         <li><a href="index">Home</a></li>
                                         <li><a href="#about">About</a></li>
-                                        <li><a
-                                                href="#services">Services</a></li>
-                                        <li><a
-                                                href="#projects">Projects</a></li>
+                                        <li class="tt-submenu-wrap tt-submenu-master">
+                                            <div class="tt-submenu-trigger">
+                                                <a href="#">Services</a>
+                                            </div>
+                                            <div class="tt-submenu">
+                                                <ul class="tt-submenu-list">
+                                                    <li>
+                                                        <a href="digital-strategy-performance-marketing">
+                                                            Digital Strategy & Performance Marketing
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="social-media-&-content-marketing">
+                                                            Social Media & Content Marketing
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="seo-&-conversion-optimisation">
+                                                            SEO & Conversion Optimisation
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="web-design-&-development">
+                                                            Web Design & Development
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="branding-&-creative-production">
+                                                            Branding & Creative Production
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="paid-advertising">
+                                                            Paid Advertising
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="ai-powered-automations">
+                                                            AI-Powered Automations
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li><a href="#projects">Projects</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -227,154 +268,101 @@
 
                             <!-- Main Terms Content -->
                             <div class="tt-col-xl-12">
-                                <div
-                                    class="tt-contact-info-inner tt-anim-fadeinup">
+                                <div class="tt-contact-info-inner tt-anim-fadeinup">
 
-                                    <div
-                                        class="tt-heading tt-heading-xxxlg margin-bottom-40">
-                                        <h3
-                                            class="tt-heading-subtitle">Legal</h3>
-                                        <h2 class="tt-heading-title">Terms
-                                            &amp; Conditions</h2>
+                                    <div class="tt-heading tt-heading-xxxlg margin-bottom-40">
+                                        <h3 class="tt-heading-subtitle">Legal</h3>
+                                        <h2 class="tt-heading-title">Terms &amp; Conditions</h2>
                                     </div>
 
                                     <div class="tt-content">
 
-                                        <!-- 1 -->
                                         <section class="margin-bottom-40">
                                             <h4>1. Using Our Website</h4>
                                             <p>
-                                                By visiting or using the
-                                                Hyperpath Digital website,
-                                                you agree to these
-                                                Terms &amp; Conditions. If
-                                                you do not agree, please do
-                                                not use this site.
-                                                You agree not to misuse the
-                                                website, attempt
-                                                unauthorised access, or
-                                                upload
-                                                any harmful or unlawful
-                                                content.
+                                                By visiting or using the Hyperpath Digital website,
+                                                you agree to these Terms &amp; Conditions. If you do
+                                                not agree, please do not use this site.
+                                                You agree not to misuse the website, attempt
+                                                unauthorised access, or upload
+                                                any harmful or unlawful content.
                                             </p>
                                         </section>
 
-                                        <!-- 2 -->
                                         <section class="margin-bottom-40">
-                                            <h4>2. Services &amp;
-                                                Enquiries</h4>
+                                            <h4>2. Services &amp; Enquiries</h4>
                                             <p>
-                                                When you contact us by form,
-                                                email, or social media, you
-                                                confirm that the
-                                                details you provide are
-                                                accurate and that you are
-                                                authorised to represent
+                                                When you contact us by form, email, or social media,
+                                                you confirm that the details you provide are
+                                                accurate and that you are authorised to represent
                                                 yourself or your business.
-                                                An enquiry or conversation
-                                                does not create a
-                                                contract. A project only
-                                                starts when we both agree in
-                                                writing (for example,
-                                                by a proposal, quote, or
-                                                statement of work).
+                                                An enquiry or conversation does not create a
+                                                contract. A project only starts when we both agree
+                                                in writing (for example,
+                                                by a proposal, quote, or statement of work).
                                             </p>
                                         </section>
 
-                                        <!-- 3 -->
                                         <section class="margin-bottom-40">
                                             <h4>3. Fees &amp; Payments</h4>
                                             <p>
-                                                Prices, timelines, and
-                                                deliverables are confirmed
-                                                in writing for each
-                                                project. Unless stated
-                                                otherwise, fees exclude
-                                                taxes and any third-party
-                                                platform costs. Invoices
-                                                must be paid within the
-                                                stated period. Late
-                                                payment may pause work and
-                                                can lead to additional
-                                                charges or rescheduling
+                                                Prices, timelines, and deliverables are confirmed
+                                                in writing for each project. Unless stated
+                                                otherwise, fees exclude taxes and any third-party
+                                                platform costs. Invoices must be paid within the
+                                                stated period. Late payment may pause work and
+                                                can lead to additional charges or rescheduling
                                                 of work.
                                             </p>
                                         </section>
 
-                                        <!-- 4 -->
                                         <section class="margin-bottom-40">
-                                            <h4>4. Intellectual
-                                                Property</h4>
+                                            <h4>4. Intellectual Property</h4>
                                             <p>
-                                                All content on this website
-                                                (design, text, graphics, and
-                                                other assets) is
-                                                owned or licensed by
-                                                Hyperpath Digital. You may
-                                                not copy or reuse it for
-                                                your own purposes without
-                                                written permission.
-                                                Ownership and usage rights
-                                                for any work we create for
-                                                you will be explained in
-                                                your project agreement.
+                                                All content on this website (design, text, graphics,
+                                                and other assets) is owned or licensed by
+                                                Hyperpath Digital. You may not copy or reuse it for
+                                                your own purposes without written permission.
+                                                Ownership and usage rights for any work we create
+                                                for you will be explained in your project agreement.
                                             </p>
                                         </section>
 
-                                        <!-- 5 -->
                                         <section class="margin-bottom-40">
-                                            <h4>5. No Guarantees &amp;
-                                                Limitation of Liability</h4>
+                                            <h4>5. No Guarantees &amp; Limitation of Liability</h4>
                                             <p>
-                                                We always aim for strong
-                                                results, but we cannot
-                                                guarantee specific outcomes
-                                                such as exact rankings,
+                                                We always aim for strong results, but we cannot
+                                                guarantee specific outcomes such as exact rankings,
                                                 revenue, or follower growth.
-                                                Our website and
-                                                services are provided “as
-                                                is” and “as available”. To
-                                                the fullest extent
-                                                allowed by law, we are not
-                                                liable for any indirect or
+                                                Our website and services are provided “as is” and
+                                                “as available”. To the fullest extent allowed by
+                                                law, we are not liable for any indirect or
                                                 consequential loss.
-                                                Any liability we do have
-                                                will be limited to the fees
-                                                you have paid to us
-                                                for the relevant project.
+                                                Any liability we do have will be limited to the
+                                                fees you have paid to us for the relevant project.
                                             </p>
                                         </section>
 
-                                        <!-- 6 -->
                                         <section class="margin-bottom-10">
-                                            <h4>6. Changes, Law &amp;
-                                                Contact</h4>
+                                            <h4>6. Changes, Law &amp; Contact</h4>
                                             <p>
-                                                We may update these Terms
-                                                &amp; Conditions from time
-                                                to time. The version
-                                                published on this page is
-                                                the one that applies. These
-                                                terms are governed
-                                                by the laws of England and
-                                                Wales, and any disputes will
-                                                be handled by the
-                                                courts of England and Wales.
+                                                We may update these Terms &amp; Conditions from time
+                                                to time. The version published on this page is the
+                                                one that applies. These terms are governed
+                                                by the laws of India, and any disputes will be
+                                                subject to the jurisdiction of the courts of India.
                                             </p>
                                             <p>
-                                                If you have questions about
-                                                these terms, you can contact
-                                                us at:
+                                                If you have questions about these terms, you can
+                                                contact us at:
                                             </p>
                                             <ul>
                                                 <li><strong>Email:</strong>
-                                                    <a
-                                                        href="mailto:hello@hyperpath.co.uk">hello@hyperpath.co.uk</a>
+                                                    <a href="mailto:hello@hyperpath.in">hello@hyperpath.in</a>
                                                 </li>
                                                 <li><strong>Address:</strong>
-                                                    58 Ilfracombe Road,
-                                                    Offerton, SK2 5AS,
-                                                    United Kingdom</li>
+                                                    New Delhi, India
+                                                </li>
                                             </ul>
                                         </section>
 
@@ -382,6 +370,7 @@
 
                                 </div>
                             </div>
+
 
                         </div>
                     </div>

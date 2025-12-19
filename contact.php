@@ -244,7 +244,50 @@
 									<ul class="tt-main-menu-list">
 										<li><a href="index">Home</a></li>
 										<li><a href="#about">About</a></li>
-										<li><a href="#services">Services</a></li>
+										<li class="tt-submenu-wrap tt-submenu-master">
+											<div class="tt-submenu-trigger">
+												<a href="#">Services</a>
+											</div>
+											<div class="tt-submenu">
+												<ul class="tt-submenu-list">
+													<li>
+														<a href="digital-strategy-performance-marketing">
+															Digital Strategy & Performance Marketing
+														</a>
+													</li>
+													<li>
+														<a href="social-media-&-content-marketing">
+															Social Media & Content Marketing
+														</a>
+													</li>
+													<li>
+														<a href="seo-&-conversion-optimisation">
+															SEO & Conversion Optimisation
+														</a>
+													</li>
+													<li>
+														<a href="web-design-&-development">
+															Web Design & Development
+														</a>
+													</li>
+													<li>
+														<a href="branding-&-creative-production">
+															Branding & Creative Production
+														</a>
+													</li>
+													<li>
+														<a href="paid-advertising">
+															Paid Advertising
+														</a>
+													</li>
+													<li>
+														<a href="ai-powered-automations">
+															AI-Powered Automations
+														</a>
+													</li>
+												</ul>
+											</div>
+										</li>
 										<li><a href="#projects">Projects</a></li>
 									</ul>
 								</div>
@@ -389,8 +432,8 @@
 
 												<li>
 													<span class="tt-cd-icon"><i class="fas fa-envelope"></i></span>
-													<a href="mailto:hello@hyperpath.co.uk"
-														class="tt-link">hello@hyperpath.co.uk</a>
+													<a href="mailto:hello@hyperpath.in"
+														class="tt-link">hello@hyperpath.in</a>
 												</li>
 											</ul>
 										</div>
@@ -677,7 +720,7 @@
 				</div>
 			</footer>
 
-			
+
 			<a href="#" class="tt-scroll-to-top">
 				<div class="tt-stt-progress tt-magnetic-item">
 					<svg class="tt-stt-progress-circle" width="100%" height="100%"
