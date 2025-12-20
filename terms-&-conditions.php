@@ -460,9 +460,12 @@
                                     <li><span class="tt-link">58 Ilfracombe
                                             Road, <br> Offerton, SK2
                                             5AS</span></li>
-                                    <li><a
-                                            href="mailto:hello@hyperpath.in"
-                                            class="tt-link">hello@hyperpath.in</a>
+                                    <li><a href="mailto:hello@hyperpath.in" class="tt-link">hello@hyperpath.in</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.hyperpath.co.uk" target="_blank" class="tt-link">
+                                            Hyperpath UK | Official Website
+                                        </a>
                                     </li>
 
                                     <li>

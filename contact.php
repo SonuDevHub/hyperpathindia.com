@@ -435,6 +435,12 @@
 													<a href="mailto:hello@hyperpath.in"
 														class="tt-link">hello@hyperpath.in</a>
 												</li>
+												<li>
+													<span class="tt-cd-icon"><i class="fas fa-globe"></i></span>
+													<a href="https://www.hyperpath.co.uk" target="_blank" class="tt-link">
+														Hyperpath UK | Official Website
+													</a>
+												</li>
 											</ul>
 										</div>
 
@@ -659,7 +665,11 @@
 											href="mailto:hello@hyperpath.in"
 											class="tt-link">hello@hyperpath.in</a>
 									</li>
-
+									<li>
+										<a href="https://www.hyperpath.co.uk" target="_blank" class="tt-link">
+											Hyperpath UK | Official Website
+										</a>
+									</li>
 									<li>
 										<div class="tt-social-buttons">
 											<ul>
